@@ -1,0 +1,5 @@
+This project is a collection (will be updated) of helpers for flex applications.
+the project can be used as a library or as source inside your project.
+
+the first helper is a Pluralization Helper which is a porting of the ROR implementation.
+the original code was written by http://flexonrails.com, I changed it, and exposed a single function outside.
